@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Difficulties>
+	<Difficulty Override="true">
+		<Name>Casual</Name>
+		<ExperienceMultiplier>1</ExperienceMultiplier>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Regular</Name>
+		<ExperienceMultiplier>2</ExperienceMultiplier>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Experienced</Name>
+		<ExperienceMultiplier>3</ExperienceMultiplier>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Veteran</Name>
+		<ExperienceMultiplier>4</ExperienceMultiplier>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Elite</Name>
+		<ExperienceMultiplier>5</ExperienceMultiplier>
+	</Difficulty>
+</Difficulties>

@@ -20,12 +20,12 @@ Copy the desired mod folder to the folder SteamWorld Heist/game/DLC.
 - [mod02 - Unlock all hats from the Outsider DLC](mod02)
 - [mod03 - Remove failure penalty from all difficulties levels](mod03)
 - [mod04 - Start with 200 more slots](mod04)
-- [mod05 - Faster leveling pace](mod05)
+- [mod06 - Faster leveling pace](mod06)
 
 ### Custom difficulty
 
 - [mod03 - Remove failure penalty from all difficulties levels](mod03)
-- [mod05 - Faster leveling pace](mod05)
+- [mod06 - Faster leveling pace](mod06)
 
 ### Storage
 

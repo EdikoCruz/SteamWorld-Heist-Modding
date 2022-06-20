@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Difficulties>
+	<Difficulty Override="true">
+		<Name>Casual</Name>
+		<MissionFailMoneyFactor>1</MissionFailMoneyFactor>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Regular</Name>
+		<MissionFailMoneyFactor>1</MissionFailMoneyFactor>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Experienced</Name>
+		<MissionFailMoneyFactor>1</MissionFailMoneyFactor>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Veteran</Name>
+		<MissionFailMoneyFactor>1</MissionFailMoneyFactor>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Elite</Name>
+		<MissionFailMoneyFactor>1</MissionFailMoneyFactor>
+	</Difficulty>
+</Difficulties>

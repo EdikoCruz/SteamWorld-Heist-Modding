@@ -10,3 +10,8 @@ Caution! Before using the mods, create a backup of the save game. The game will 
 
 mod01 - Unlock all hats from the base game
 mod02 - Unlock all hats from the Outsider DLC
+mod03 - Remove failure penalty from all difficulties levels
+
+# Custom difficulty
+
+mod03 - Remove failure penalty from all difficulties levels

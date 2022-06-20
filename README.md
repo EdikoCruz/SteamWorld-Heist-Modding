@@ -8,10 +8,10 @@ Caution! Before using the mods, create a backup of the save game. The game will 
 
 # Cheating
 
-[mod01 - Unlock all hats from the base game](mod01)
-[mod02 - Unlock all hats from the Outsider DLC](mod02)
-[mod03 - Remove failure penalty from all difficulties levels](mod03)
+- [mod01 - Unlock all hats from the base game](mod01)
+- [mod02 - Unlock all hats from the Outsider DLC](mod02)
+- [mod03 - Remove failure penalty from all difficulties levels](mod03)
 
 # Custom difficulty
 
-[mod03 - Remove failure penalty from all difficulties levels](mod03)
+- [mod03 - Remove failure penalty from all difficulties levels](mod03)

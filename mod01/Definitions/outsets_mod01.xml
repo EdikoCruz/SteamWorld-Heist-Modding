@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <OutsetDefinitions>
 	<Outset>
-		<Name>outset_base_mod01</Name>
+		<Name>outset_mod01</Name>
 		<Hats>
 			<Hat>ace_hat</Hat>
 			<Hat>air_force_cap</Hat>

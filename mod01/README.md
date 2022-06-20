@@ -1,1 +1,1 @@
-# Unlock all hats from the base game (1.0)
+# Unlock all hats from the base game (1.1)

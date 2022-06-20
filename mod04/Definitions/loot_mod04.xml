@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LootDefinitions>
+	<Loot Override="true">
+		<Name>inventory_slot_small_1</Name>
+		<LocalizedNameId>loot_inventory_slot_small_mod04</LocalizedNameId>
+		<LocalizedDescriptionId>loot_inventory_slot_small_mod04_desc</LocalizedDescriptionId>
+		<InventorySlots>100</InventorySlots>
+	</Loot>
+</LootDefinitions>

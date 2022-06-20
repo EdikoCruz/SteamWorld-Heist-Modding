@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OutsetDefinitions>
+	<Outset>
+		<Name>outset_mod02</Name>
+		<Hats>
+			<Hat>ash</Hat>
+			<Hat>cloud</Hat>
+			<Hat>detectivecap</Hat>
+			<Hat>dolores</Hat>
+			<Hat>durkslag</Hat>
+			<Hat>flapper_band</Hat>
+			<Hat>flower_crown</Hat>
+			<Hat>hatoful</Hat>
+			<Hat>headphones</Hat>
+			<Hat>jayne</Hat>
+			<Hat>jester</Hat>
+			<Hat>jones</Hat>
+			<Hat>layton</Hat>
+			<Hat>marty_cap</Hat>
+			<Hat>petit_top_hat</Hat>
+			<Hat>pokercowboy</Hat>
+			<Hat>prison_hat</Hat>
+			<Hat>sauce_hat</Hat>
+			<Hat>shell_crown</Hat>
+			<Hat>strawhat</Hat>
+			<Hat>turban</Hat>
+			<Hat>wizzard</Hat>
+		</Hats>
+	</Outset>	
+</OutsetDefinitions>

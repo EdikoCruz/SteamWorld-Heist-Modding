@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GiftDefinitions>
+	<Gift>
+		<Name>MOD02_Gift1</Name>
+		<AdditiveOutset>outset_mod02</AdditiveOutset>
+	</Gift>
+</GiftDefinitions>

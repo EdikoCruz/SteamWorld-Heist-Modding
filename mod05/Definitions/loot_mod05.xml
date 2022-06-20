@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LootDefinitions>
+    <Loot>
+		<Name>inventory_slot_small_infinite_1</Name>
+		<Template>inventory_slot_small</Template>
+		<LocalizedNameId>loot_inventory_slot_small_infinite</LocalizedNameId>
+		<Loot Cost="2500" BuyOnce="false"/>
+	</Loot>
+    <Loot>
+		<Name>inventory_slot_small_infinite_2</Name>
+		<Template>inventory_slot_small</Template>
+		<LocalizedNameId>loot_inventory_slot_small_infinite</LocalizedNameId>
+		<Loot Cost="5000" BuyOnce="false"/>
+	</Loot>
+    <Loot>
+		<Name>inventory_slot_small_infinite_3</Name>
+		<Template>inventory_slot_small</Template>
+		<LocalizedNameId>loot_inventory_slot_small_infinite</LocalizedNameId>
+		<Loot Cost="10000" BuyOnce="false"/>
+	</Loot>
+</LootDefinitions>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EncounterDefinitions>
+	<!-- Scrapper Bars -->
+	<Encounter Override="true">
+		<Name>scrapper_bar_01</Name>
+		<MasterLoot Inherit="false" Override="true">
+			<Loot>brass_knuckles</Loot>
+			<Loot>repair_box</Loot>
+			<Loot>handgun_01</Loot>
+			<Loot>inventory_slot_small_1</Loot>
+			<Loot>inventory_slot_small_infinite_1</Loot>
+		</MasterLoot>
+	</Encounter>
+	<!-- Royalist Bars & Shops -->
+	<Encounter Override="true">
+		<Name>royalist_bar_01</Name>
+		<MasterLoot Inherit="false" Override="true">
+			<Loot>royalist_sidearm</Loot>
+			<Loot>big_repair_box</Loot>
+			<Loot>inventory_slot_small_4</Loot>
+			<Loot>inventory_slot_small_infinite_2</Loot>
+		</MasterLoot>
+	</Encounter>
+	<!-- Vectron Bars & Shops -->
+	<Encounter Override="true">
+		<Name>vectron_bar_01</Name>
+		<MasterLoot Inherit="false" Override="true">
+			<Loot>inventory_slot_small_7</Loot>
+			<Loot>inventory_slot_small_infinite_3</Loot>
+			<Loot>spare_parts</Loot>
+			<Loot>stun_gun</Loot>
+		</MasterLoot>
+	</Encounter>
+</EncounterDefinitions>

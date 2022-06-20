@@ -6,6 +6,10 @@ I am testing mods with the GoG 2.1 version and providing translation to English,
 
 Caution! Before using the mods, create a backup of the save game. The game will add the mod to the save game, likewise any DLC, and you will not be able to use them without the modding.
 
+# Balanced-ish
+
+- [mod05 - Infinite supplier for Small Storage Unit](mod05)
+
 # Cheating
 
 - [mod01 - Unlock all hats from the base game](mod01)
@@ -16,3 +20,8 @@ Caution! Before using the mods, create a backup of the save game. The game will 
 # Custom difficulty
 
 - [mod03 - Remove failure penalty from all difficulties levels](mod03)
+
+# Storage
+
+- [mod04 - Start with 200 more slots](mod04)
+- [mod05 - Infinite supplier for Small Storage Unit](mod05)

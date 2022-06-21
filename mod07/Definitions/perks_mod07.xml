@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PerkDefinitions>
+	<Perk Override="true">
+		<Name>handgun</Name>
+		<Property AimShakeAmplitude="0.0"/>
+	</Perk>
+	<Perk Override="true">
+		<Name>marksman</Name>
+		<Property AimShakeAmplitude="0.0"/>
+	</Perk>
+	<Perk Override="true">
+		<Name>assault</Name>
+		<Property AimShakeAmplitude="0.0"/>
+	</Perk>
+	<Perk Override="true">
+		<Name>heavy</Name>
+		<Property AimShakeAmplitude="0.0"/>
+	</Perk>
+	<Perk Override="true">
+		<Name>reduce_sway</Name>
+		<Property AimShakeAmplitude="0.0"/>
+	</Perk>
+</PerkDefinitions>

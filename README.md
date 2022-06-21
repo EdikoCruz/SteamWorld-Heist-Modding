@@ -26,6 +26,7 @@ Copy the desired mod folder to the folder SteamWorld Heist/game/DLC.
 
 - [mod03 - Remove failure penalty from all difficulties levels](mod03)
 - [mod06 - Faster leveling pace](mod06)
+- [mod07 - Steady hands](mod07)
 
 ### Storage
 

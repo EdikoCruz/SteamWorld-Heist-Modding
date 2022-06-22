@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PersonaDefinitions>
+	<Persona Override="true">
+		<Name>valentine</Name>
+		<LevelCategories>
+			<Levels Type="starting">
+				<Level Perk="handgun" />
+				<Level Perk="marksman" />
+			</Levels>
+			<Levels Type="upgrades">
+ 				<Level Perk="camper" />
+				<Level Perk="health" />
+				<Level Perk="piercing_shot" />
+				<Level Perk="speed" />
+				<Level Perk="soot_screen" />
+				<Level Perk="health" />
+				<Level Perk="camper_upgrade" />
+				<Level Perk="health" />
+				<Level Perk="piercing_shot_reduced_cooldown" />
+				<Level Perk="camper_upgrade_02" AchievementCounter="cntr_max_level_all"/>
+			</Levels>
+		</LevelCategories>
+	</Persona>
+</PersonaDefinitions>

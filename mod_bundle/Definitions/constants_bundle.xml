@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Constants>
+	<Settings Override="true">
+		<Name>default</Name>
+
+		<ItemSellValue>0.2</ItemSellValue>
+		<RareItemSellValue>0.1</RareItemSellValue>
+
+		<!-- faster animations -->
+		<WaitBetweenRounds>0.1</WaitBetweenRounds>
+		<WaitBetweenFactions>0.1</WaitBetweenFactions>
+
+		<SpaceCameraSpeed>1500</SpaceCameraSpeed>
+
+		<ConversationCameraTimeMin>0.1</ConversationCameraTimeMin>
+		<ConversationCameraTimeMax>0.2</ConversationCameraTimeMax>
+
+		<IntroCameraEnemySpeed>2000</IntroCameraEnemySpeed>
+		<IntroCameraReinforcementsSpeed>2000</IntroCameraReinforcementsSpeed>
+		<IntroCameraLingerTime>0.1</IntroCameraLingerTime>
+		<IntroCameraLingerTimeFinal>0.2</IntroCameraLingerTimeFinal>
+
+		<ProjectileCameraLingerTime>0.1</ProjectileCameraLingerTime>
+		<CameraLingerTimeHurt>0.2</CameraLingerTimeHurt>
+		<CameraLingerTimeKill>0.4</CameraLingerTimeKill>
+
+		<ActorEffectCameraLingerTime>0.2</ActorEffectCameraLingerTime>
+
+		<VictoryCameraApproachTime>0.8</VictoryCameraApproachTime>
+		<VictoryFanfareTime>0.7</VictoryFanfareTime>
+		<VictoryBannerTime>0.8</VictoryBannerTime>
+		<VictoryMusicTime>3.0</VictoryMusicTime>
+		<VictoryCompleteTime>3.8</VictoryCompleteTime>
+
+		<TrapCameraSpeed>1360</TrapCameraSpeed>
+		<TrapCameraTriggerTime>0.2</TrapCameraTriggerTime>
+		<TrapCameraLingerTime>0.4</TrapCameraLingerTime>
+
+		<BulletTimeTimeFactor>0.3</BulletTimeTimeFactor>
+		<BulletTimeForcedTimeFactor>0.15</BulletTimeForcedTimeFactor>
+		<BulletTimeKillshotChance>0.1</BulletTimeKillshotChance>
+		<BulletTimeDurationMin>0.4</BulletTimeDurationMin>
+		<BulletTimeDurationMax>0.8</BulletTimeDurationMax>
+		<BulletTimeForcedExtraDuration>0.2</BulletTimeForcedExtraDuration>
+
+		<HatPickupCameraLingerTime>0.2</HatPickupCameraLingerTime>
+	</Settings>
+</Constants>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EncounterDefinitions>
+	<!-- Gat's Bar -->
+	<Encounter Override="true">
+		<Name>scrapper_bar_01</Name>
+		<MasterLoot Inherit="false">
+			<Loot>brass_knuckles</Loot>
+			<Loot>repair_box</Loot>
+			<Loot>handgun_01</Loot>
+			<Loot>treasure_bronze_teapot</Loot>
+			<Loot>inventory_slot_small_1</Loot>
+		</MasterLoot>
+	</Encounter>
+	<!-- Gat's Bar, when moseby is rescued -->
+	<Encounter> <!-- DLC01: Override do not working -->
+		<Name>scrapper_bar_01_moseby_rescued</Name>
+		<Template>BAR</Template>
+		<SharedLocationName>scrapper_bar_01</SharedLocationName>
+		<SpaceCharacter>bar_gats</SpaceCharacter>
+		<LocalizedNameId>encounter_name_scrapper_bar_01</LocalizedNameId>
+		<LocalizedDescId>encounter_desc_scrapper_bar_01</LocalizedDescId>
+		<Music Tension="spg_what_we_need_are_some_heroes" />
+		<MasterLoot Inherit="false">
+			<Loot>brass_knuckles</Loot>
+			<Loot>repair_box</Loot>
+			<Loot>handgun_01</Loot>
+			<Loot>treasure_bronze_teapot</Loot>
+			<Loot>inventory_slot_small_1</Loot>
+		</MasterLoot>
+		<Recruits>
+			<Name>sally_bolt</Name>
+		</Recruits>
+		<GeneratorDefinition>
+			<HullType>SpaceBar</HullType>
+			<SpecificPatchset>bar_dlc01</SpecificPatchset>
+			<SpecificPatch>bar_04_rescued_moseby</SpecificPatch>
+		</GeneratorDefinition>
+		<SpaceMapUIOffset>BottomLeft</SpaceMapUIOffset>
+	</Encounter>
+	<!-- Lola's -->
+	<Encounter Override="true">
+		<Name>scrapper_bar_02_empty</Name>
+		<MasterLoot Inherit="false">
+			<Loot>handgun_02</Loot>
+			<Loot>shotgun_02</Loot>
+			<Loot>speed_boots_1</Loot>
+			<Loot>treasure_gold_bar</Loot>
+			<Loot>inventory_slot_small_1</Loot>
+		</MasterLoot>
+	</Encounter>
+	<!-- Lola's restored -->
+	<Encounter Override="true">
+		<Name>scrapper_bar_02_restored</Name>
+		<MasterLoot Inherit="false">
+			<Loot>handgun_02</Loot>
+			<Loot>shotgun_02</Loot>
+			<Loot>speed_boots_1</Loot>
+			<Loot>treasure_gold_bar</Loot>
+			<Loot>inventory_slot_small_1</Loot>
+		</MasterLoot>
+	</Encounter>
+	<!-- Lola's royalist attack -->
+	<Encounter Override="true">
+		<Name>scrapper_bar_02_royalist_attack</Name>
+		<MasterLoot Inherit="false">
+			<Loot>handgun_02</Loot>
+			<Loot>shotgun_02</Loot>
+			<Loot>speed_boots_1</Loot>
+			<Loot>treasure_gold_bar</Loot>
+			<Loot>inventory_slot_small_1</Loot>
+		</MasterLoot>
+	</Encounter>
+	<!-- Scrapper Secret Shop -->
+	<Encounter Override="true">
+		<Name>scrapper_secret_shop_01</Name>
+		<MasterLoot Inherit="false">
+			<Loot>sniper_rare_03</Loot>
+			<Loot>light_armor_1</Loot>
+			<Loot>inventory_slot_large_1</Loot>
+			<Loot>titanium_alloy</Loot>
+			<Loot>sushi_sidearm</Loot>
+		</MasterLoot>
+	</Encounter>
+</EncounterDefinitions>

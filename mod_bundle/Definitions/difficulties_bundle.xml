@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Difficulties>
+	<!-- Overriding demo because there is some UI issues... -->
+	<Difficulty Override="true">
+		<Name>Demo</Name>
+		<Hidden>false</Hidden>
+		<LocalizedNameId>difficulty_offensive</LocalizedNameId>
+		<LocalizedDescId>difficulty_offensive_desc</LocalizedDescId>
+		<Icon>Icons/Difficulty/icon_difficulty_elite</Icon>
+
+		<EnemyDamageMultiplier>3.0</EnemyDamageMultiplier>
+		<PlayerDamageMultiplier>1.0</PlayerDamageMultiplier>
+		
+		<EnemyHealthMultiplier>1.5</EnemyHealthMultiplier>
+		<PlayerHealthMultiplier>1.0</PlayerHealthMultiplier>
+		<AlarmTimeMultiplier>1.0</AlarmTimeMultiplier>
+		<EnemySpawnMultiplier>1.5</EnemySpawnMultiplier>
+		<EnemyReinforcementMultiplier>1.5</EnemyReinforcementMultiplier>
+		
+		<EnemyAimRandomness>-0.05</EnemyAimRandomness>
+
+		<ExperienceMultiplier>3.0</ExperienceMultiplier>
+		<MoneyMultiplier>2.0</MoneyMultiplier>
+		<MissionFailMoneyFactor>0.5</MissionFailMoneyFactor>
+		<AchievementUnlocks>
+			<AchievementUnlock>ach_difficulty_5</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_4</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_3</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_2</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_1</AchievementUnlock>
+		</AchievementUnlocks>
+	</Difficulty>
+	<Difficulty>
+		<Name>Swarm</Name>
+		<LocalizedNameId>difficulty_swarm</LocalizedNameId>
+		<LocalizedDescId>difficulty_swarm_desc</LocalizedDescId>
+		<Icon>Icons/Difficulty/icon_difficulty_elite</Icon>
+
+		<EnemyDamageMultiplier>1.25</EnemyDamageMultiplier>
+		<PlayerDamageMultiplier>1.0</PlayerDamageMultiplier>
+
+		<EnemyHealthMultiplier>1.25</EnemyHealthMultiplier>
+		<PlayerHealthMultiplier>1.0</PlayerHealthMultiplier>
+		<AlarmTimeMultiplier>0.5</AlarmTimeMultiplier>
+		<EnemySpawnMultiplier>2.0</EnemySpawnMultiplier>
+		<EnemyReinforcementMultiplier>2.0</EnemyReinforcementMultiplier>
+
+		<EnemyAimRandomness>-0.05</EnemyAimRandomness>
+
+		<ExperienceMultiplier>3.0</ExperienceMultiplier>
+		<MoneyMultiplier>2.0</MoneyMultiplier>
+		<MissionFailMoneyFactor>0.5</MissionFailMoneyFactor>
+		<AchievementUnlocks>
+			<AchievementUnlock>ach_difficulty_5</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_4</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_3</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_2</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_1</AchievementUnlock>
+		</AchievementUnlocks>
+	</Difficulty>
+	<Difficulty>
+		<Name>Defensive</Name>
+		<LocalizedNameId>difficulty_defensive</LocalizedNameId>
+		<LocalizedDescId>difficulty_defensive_desc</LocalizedDescId>
+		<Icon>Icons/Difficulty/icon_difficulty_elite</Icon>
+
+		<EnemyDamageMultiplier>1.5</EnemyDamageMultiplier>
+		<PlayerDamageMultiplier>1.0</PlayerDamageMultiplier>
+
+		<EnemyHealthMultiplier>3.0</EnemyHealthMultiplier>
+		<PlayerHealthMultiplier>1.0</PlayerHealthMultiplier>
+		<AlarmTimeMultiplier>1.0</AlarmTimeMultiplier>
+		<EnemySpawnMultiplier>1.5</EnemySpawnMultiplier>
+		<EnemyReinforcementMultiplier>1.5</EnemyReinforcementMultiplier>
+
+		<EnemyAimRandomness>-0.05</EnemyAimRandomness>
+
+		<ExperienceMultiplier>3.0</ExperienceMultiplier>
+		<MoneyMultiplier>2.0</MoneyMultiplier>
+		<MissionFailMoneyFactor>0.5</MissionFailMoneyFactor>
+		<AchievementUnlocks>
+			<AchievementUnlock>ach_difficulty_5</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_4</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_3</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_2</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_1</AchievementUnlock>
+		</AchievementUnlocks>
+	</Difficulty>
+	<Difficulty>
+		<Name>Why</Name>
+		<LocalizedNameId>difficulty_why</LocalizedNameId>
+		<LocalizedDescId>difficulty_why_desc</LocalizedDescId>
+		<Icon>Icons/Difficulty/icon_difficulty_elite</Icon>
+
+		<EnemyDamageMultiplier>3.0</EnemyDamageMultiplier>
+		<PlayerDamageMultiplier>1.0</PlayerDamageMultiplier>
+
+		<EnemyHealthMultiplier>3.0</EnemyHealthMultiplier>
+		<PlayerHealthMultiplier>1.0</PlayerHealthMultiplier>
+		<AlarmTimeMultiplier>0.5</AlarmTimeMultiplier>
+		<EnemySpawnMultiplier>2.0</EnemySpawnMultiplier>
+		<EnemyReinforcementMultiplier>2.0</EnemyReinforcementMultiplier>
+
+		<EnemyAimRandomness>-0.05</EnemyAimRandomness>
+
+		<ExperienceMultiplier>3.0</ExperienceMultiplier>
+		<MoneyMultiplier>2.0</MoneyMultiplier>
+		<MissionFailMoneyFactor>0.5</MissionFailMoneyFactor>
+		<AchievementUnlocks>
+			<AchievementUnlock>ach_difficulty_5</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_4</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_3</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_2</AchievementUnlock>
+			<AchievementUnlock>ach_difficulty_1</AchievementUnlock>
+		</AchievementUnlocks>
+	</Difficulty>
+	<Difficulty Override="true">
+		<Name>Casual</Name>
+		<ExperienceMultiplier>8.0</ExperienceMultiplier>
+		<MoneyMultiplier>5.0</MoneyMultiplier>
+		<AlarmTimeMultiplier>3.0</AlarmTimeMultiplier>
+		<EnemySpawnMultiplier>1.0</EnemySpawnMultiplier>
+		<EnemyReinforcementMultiplier>1.0</EnemyReinforcementMultiplier>
+	</Difficulty>
+</Difficulties>

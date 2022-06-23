@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OutsetDefinitions>
+    <Outset Override="true">
+        <Name>start</Name>
+        <Crewmates>
+            <Crew>
+                <Name>piper</Name>
+                <Weapon>scoped_01</Weapon>
+                <Utility1>armor_1</Utility1>
+                <Utility2>repair_box</Utility2>
+            </Crew>
+        </Crewmates>
+    </Outset>
+    <Outset Override="true">
+        <Name>skip_tutorial</Name>
+        <Crewmates Inherit="false">
+            <Crew>
+                <Name>piper</Name>
+                <Weapon>scoped_01</Weapon>
+                <Utility1>armor_1</Utility1>
+                <Utility2>repair_box</Utility2>
+                <Level Type="upgrades">1</Level>
+            </Crew>
+            <Crew>
+                <Name>sea_brass</Name>
+                <Level Type="upgrades">1</Level>
+            </Crew>
+        </Crewmates>
+    </Outset>
+</OutsetDefinitions>

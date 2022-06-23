@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LootDefinitions>
+	<Loot Override="true">
+		<Name>inventory_slot_large_1</Name>
+		<Loot Cost="3500" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_1</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+	<!-- fallback-ish -->
+	<Loot Override="true">
+		<Name>inventory_slot_large_2</Name>
+		<Loot Cost="3500" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_large_3</Name>
+		<Loot Cost="3500" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_large_4</Name>
+		<Loot Cost="3500" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_2</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_3</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_4</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_5</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_6</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_7</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+	<Loot Override="true">
+		<Name>inventory_slot_small_8</Name>
+		<Loot Cost="2000" BuyOnce="false"/>
+	</Loot>
+</LootDefinitions>

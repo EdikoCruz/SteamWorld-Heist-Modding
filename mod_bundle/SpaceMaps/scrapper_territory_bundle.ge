@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GraphData Version="1">
+	<Edges>
+		<Edge First="25" Second="19" /> <!-- From Lola's to 'Triple Threat Terrors' -->
+		<Edge First="32" Second="86" /> <!-- From Scrapper Secret Shop to Scrapper weapon shop -->
+		<Edge First="54" Second="86" /> <!-- From 'Tick Tock' to Scrapper Secret Shop -->
+		<Edge First="39" Second="44" /> <!-- From Beatrix's ship to 'Explosives Transport' -->
+	</Edges>
+</GraphData>

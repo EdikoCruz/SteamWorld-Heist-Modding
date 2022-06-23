@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Difficulties>
-	<!-- Overriding demo because there is some UI issues... -->
+	<!-- Overriding/Reusing demo because there is some UI issues... -->
 	<Difficulty Override="true">
 		<Name>Demo</Name>
 		<Hidden>false</Hidden>
